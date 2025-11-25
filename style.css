@@ -1,3 +1,9 @@
 img{
   border-radius: 0 75px 75px 75px;
+  backgroundcolor: white;
+  padding: 0 50px 50px 50px;
+}
+
+body{
+  background-color: azure;
 }

@@ -1,9 +1,9 @@
-img{
+img:first-of-type {
   border-radius: 0 100px 100px 100px;
   background-color: aquamarine;
   padding: 0 50px 50px 50px;
 }
 
-body{
+body {
   background-color: lightskyblue;
 }
